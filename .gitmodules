@@ -1,0 +1,15 @@
+[submodule "GT5-Unofficial"]
+	path = GT5-Unofficial
+	url = https://github.com/GTNewHorizons/GT5-Unofficial.git
+[submodule "GTplusplus"]
+	path = GTplusplus
+	url = https://github.com/GTNewHorizons/GTplusplus.git
+[submodule "bartworks"]
+	path = bartworks
+	url = https://github.com/GTNewHorizons/bartworks.git
+[submodule "TecTech"]
+	path = TecTech
+	url = https://github.com/GTNewHorizons/TecTech.git
+[submodule "NewHorizonsCoreMod"]
+	path = NewHorizonsCoreMod
+	url = https://github.com/GTNewHorizons/NewHorizonsCoreMod.git
